@@ -29,8 +29,8 @@
 #include <wait.h>
 #include <time.h>
 #include <limits.h>
-#include <linux/stat.h>
-#include <sys/stat.h>
+//#include <linux/stat.h>
+//#include <sys/stat.h>
 
 #include "utils.h"
 
